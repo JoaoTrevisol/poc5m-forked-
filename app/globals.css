@@ -1,0 +1,41 @@
+html {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #fafafa;
+  color: #333;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font: inherit;
+  padding: 0.6rem 1.2rem;
+  color: white;
+  background-color: #0070f3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005bb5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
